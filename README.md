@@ -40,3 +40,29 @@ To run the programs, you need:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sitej6174/C_language_Tutorials-.git
+   ```
+2. For compiling on Windows
+   ```bash
+   gcc star.c
+   ```
+   after compiling execute it by
+   ```bash
+   ./a.exe
+   ```
+3. For compiling on Linux or Mac
+   ```bash
+   gcc star.c
+   ```
+   or
+   ```bash
+   clang star.c
+   ```
+   after compiling execute it by
+   ```bash
+   ./a.out
+   ```
+
+    
+
+
+   
